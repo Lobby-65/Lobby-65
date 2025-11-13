@@ -50,9 +50,6 @@ Atualmente, meus estudos estão focados em:
 
 ---
 
-⭐ _"O aprendizado é um processo contínuo — cada linha de código é um passo a mais no caminho da evolução."_  
-🧩 _— Robert Cauan_
-
 ---
 
 > 🧠 “Somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito.”  
